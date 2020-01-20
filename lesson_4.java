@@ -1,4 +1,4 @@
-package ru.geekbrains.tictactoe;
+package ru.geekbrains.lesson_4;
 
 import java.util.Random;
 
